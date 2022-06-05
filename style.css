@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather",sans-serif;
+    font-size: 100%;
+    color: #544713;
+    line-height: 2;
+}
+
+.start-img{
+    background-color: blanchedalmond;
+    background-blend-mode: multiply;
+    width: 80px;
+    height: 110px;    
+    position: absolute;
+    top: 200px;
+    left: 380px;
+}
+.top-container{
+    background-color: blanchedalmond;     
+    position: relative;   
+    padding-top: 100px;
+}
+.middle-container{
+    margin: 0;
+    width: 50%;
+    margin-left: 380px;
+    margin-right: 50px;
+
+}
+.bottom-container{
+    margin: 0;
+}
+.pro{
+    text-decoration: underline;
+}
+h1{
+    position: relative;
+    margin-top: 100px;
+    font-family: "Sacramento",cursive ; 
+    font-size: 5rem;
+    color: #B5930D;
+    margin-bottom: 0;
+
+}
+h2{
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    margin-top: 0;
+    color: #B5930D;
+    font-weight: bold;
+}
+h3{
+    font-family: "Montserrat",sans-serif;
+    font-size: 1.5rem;
+    color:#F3CE3D;
+}
+p{
+    font-size:1rem ;
+}
+.background-top{
+    background-color: blanchedalmond;
+    background-blend-mode: multiply;
+    width: 150px;
+    height: 124px;    
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+.background-bottom{
+    background-color: blanchedalmond;
+    background-blend-mode: multiply;
+    width: 150px;
+    height: 150px;    
+    position: absolute;
+    top: 250px;
+    right: 300px;
+}
+
+.mountain{
+    background-color: blanchedalmond;
+    background-blend-mode: multiply;
+    height: 400px;
+    width: 800px;
+    display: inline-block;
+}
+hr {
+    background-color: white;
+    border-style: none;
+    border-top: dotted;
+    border-color: gray;
+    border-width: 6px;
+    height: 0px;
+    width: 20%;
+}
+.centers{
+      text-align: center;
+      list-style-position:outside;
+}
+.skill{
+    width: 100%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.contact{
+    width: 100%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.hobby{
+    width: 100%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.project{
+    width: 100%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.edu{
+    width: 100%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.achive{
+    width: 150%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.edu-img{
+      width: 30%;
+      float:right;
+      margin-left: 30px;
+      margin-bottom: 40px;
+}
+.hobby-img{
+    width: 30%;
+    float:right;
+    margin-left: 30px;
+    margin-bottom: 100px;
+}
+.project-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+.skill-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 40px;
+}
+.achive-img{
+    width: 30%;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 40px;
+}
+.bottom-container{
+    background-color: blanchedalmond;     
+    position: relative;   
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    
+}
+form {
+    border: 1px solid #c6c7cc;
+    border-radius: 5px;
+    font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    overflow: hidden;
+    width: 100%;
+    line-height: 2;
+  }
+  .button{
+      background-color: rgb(224, 218, 165);
+      border: none;  
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration:none;
+      font-size: 1rem;
+      border-bottom-left-radius: 0.5cm;
+      border-bottom-right-radius: 0.5cm;
+      border-top-left-radius: 0.5cm;
+      
+  }
+  .name{
+      text-decoration: underline;
+  }

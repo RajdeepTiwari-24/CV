@@ -14,7 +14,7 @@ body{
     height: 110px;    
     position: absolute;
     top: 200px;
-    left: 380px;
+    left: 300px;
 }
 .top-container{
     background-color: blanchedalmond;     
@@ -74,7 +74,7 @@ p{
     height: 150px;    
     position: absolute;
     top: 250px;
-    right: 300px;
+    right: 150px;
 }
 
 .mountain{

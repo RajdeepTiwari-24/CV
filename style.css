@@ -180,11 +180,38 @@ form {
       text-align: center;
       text-decoration:none;
       font-size: 1rem;
-      border-bottom-left-radius: 0.5cm;
-      border-bottom-right-radius: 0.5cm;
-      border-top-left-radius: 0.5cm;
+      border-radius: 10px;
       
   }
   .name{
       text-decoration: underline;
+  }
+  .Contact{
+    font-size: 16px;
+    font-weight: bolder;
+    border-radius: 8px;
+    position: relative;
+    left:500px;
+    background-color: #f3c79e77;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration:none;
+    border: none;
+    
+    
+    
+  }
+  .About{
+    font-size: 16px;
+    font-weight: bolder;
+    position: relative;
+    left:480px;
+    background-color: #f3c79e77;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration:none;
+    border: none;
+    border-radius: 8px;
+    
+
   }
